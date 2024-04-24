@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Barlow";
+    src: url("../fonts/barlow-light-webfont.woff") format("woff"),
+        url("../fonts/barlow-light-webfont.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Barlow";
+    src: url("../fonts/barlow-lightitalic-webfont.woff") format("woff"),
+        url("../fonts/barlow-lightitalic-webfont.woff2") format("woff2");
+    font-style: italic;
+}
+
+h1, h2, h3 {
+    font-family: "Barlow";
+}
